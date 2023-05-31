@@ -2,7 +2,7 @@
 ## This is the format that every script should have
 
 
-### Autores: 
+### Autores
 ### Fecha de creación 
 ### Fecha de última modificación 
 ### Descripción de lo que hará el código
