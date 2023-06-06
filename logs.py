@@ -118,6 +118,7 @@ if __name__ == '__main__':
     initial_yaw = 90  # En grados
 
 
+    ###Configuración de los logs##################
     #####variables de posicion y angulos########################################################
     lg_stab_pos_ang = LogConfig(name='Stabilizer1', period_in_ms=100)
 
